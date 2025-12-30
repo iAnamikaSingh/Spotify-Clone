@@ -9,4 +9,4 @@ This clone replicates the look and feel of Spotify’s web player interface, inc
 - Music player controls
 
 
-⚠️ **Note:** This is a front-end design only — no JavaScript functionality for actual music playback is included.
+⚠️ **Note:** This is a front-end design only — no JavaScript functionality is present for this project. 
